@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## *Volume-control-using-hand-gesture-using-python-and-openCv*
-
-# In[6]:
-
-
 #imported required Libraries and Modules...
 
 import cv2
